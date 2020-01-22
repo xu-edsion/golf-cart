@@ -1,0 +1,46 @@
+.cart-search{
+  line-height: 36px;
+  margin: 20px 0 30px;
+  .el-input{
+    .el-input__inner{
+      height:36px;
+      border-radius: 18px;
+    }
+    .el-input__suffix{
+      right:15px;
+    }
+  }
+  .el-button{
+    border-radius: 5px;
+  }
+  .one-key{
+    text-align: right;
+  }
+}
+.cart-library{
+  .el-table{
+    img{
+      height:64px;
+    }
+  }
+}
+.up-avatar{
+  text-align: center;
+  .avatar-container{
+    height: 180px;
+    width:180px;
+    line-height: 180px;
+    border-radius: 10px;
+    border: 1px dashed #409EFF;
+    margin: 0 auto 10px;
+    cursor: pointer;
+    .avatar-up{
+      height:180px;
+      width:180px;
+      border-radius: 10px;
+      position: relative;
+      top: -1px;
+      left: -1px;
+    }
+  }
+}
