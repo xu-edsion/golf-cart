@@ -15,7 +15,7 @@
   "dependencies": {
     "@supermap/iclient-classic": "^9.1.0-beta",
     "@supermap/iclient-leaflet": "^9.1.0-beta",
-    "axios": "0.17.1",
+    "axios": "0.19.2",
     "echarts": "^4.2.0-rc.1",
     "element-ui": "2.3.4",
     "js-cookie": "2.2.0",
